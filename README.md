@@ -2,7 +2,7 @@
 <img src="./images/banner.png" width="100%">
 <!-- banner image ends here  -->
 
-<h1> 👋 Hello, I'm Md Mahfuj Shek 2 </h1>
+<h1> 👋 Hello, I'm Md Mahfuj Shek</h1>
 
 A full time content creator on & web developer  
 🏠 &nbsp; Living: Dhaka, Bangladesh
