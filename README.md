@@ -2,10 +2,10 @@
 <img src="./images/banner.png" width="100%">
 <!-- banner image ends here  -->
 
-<h1> 👋 Hello, I'm Anisul Islam </h1>
+<h1> 👋 Hello, I'm Md Mahfuj Shek </h1>
 
 A full time content creator on & web developer  
-🏠 &nbsp; Living: Tampere, Finland
+🏠 &nbsp; Living: Dhaka, Bangladesh
 
 <!-- Contact me section starts here  -->
 
@@ -23,7 +23,7 @@ A full time content creator on & web developer
 ### 👨‍🏫 &nbsp; About Me
 
 <p align="justify">
-I am a passionate computer science teacher. I have been teaching programming languages, web development, and computer science-related subjects to millions of Bangla-speaking students worldwide through my YouTube channel for the last eight years. I had the opportunity to teach thousands of Bachelors's and Higher secondary students at different institutions in Bangladesh. After completing my master's in Software, Web and Cloud in August 2021, I am improving my web development skills. Every day I want to learn something new and share my knowledge with my students and others.
+I am a creative designer and developer, who aims to work with small businesses and marginalized communities to bring their passions to life. I offer both design and development services of web applications or websites!
 </p>
 
 <br />
@@ -87,71 +87,19 @@ I am a passionate computer science teacher. I have been teaching programming lan
   <br/>
 
 <!-- github stats starts here  -->
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
-
+<!--
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true)
-
+-->
 <br/>
 
 <!-- github stats ends here  -->
-  <!-- latest youtube videos starts here -->
-
-#### 📹 &nbsp; My Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Stop killing Bangladeshi on the Bangladesh-Indian border | 1264 killed in 20 years](https://www.youtube.com/watch?v=K5nfuLrABS0)
-- [Join Me and Ask Me Live | Answering Your Questions Live from Saudi Arabia](https://www.youtube.com/watch?v=eaWyjYCprs0)
-- [Part-3 | Mastering Best Practices for Git Branching and Merging](https://www.youtube.com/watch?v=vPJ-RKGm2BQ)
-- [A day I will cherish for a long time | seminar at Southeast University](https://www.youtube.com/watch?v=FvNIaS6pf44)
-- [Unboxing my first portable monitor in Saudi | Anisul Islam is live](https://www.youtube.com/watch?v=c_A4n5Yv5bE)
-<!-- YOUTUBE:END -->
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=hf4k4OWlBfI" target="_blank"><img src="https://img.youtube.com/vi/hf4k4OWlBfI/3.jpg" 
-alt="Java" width="240" height="180" border="10" /></a>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=fRXL0X2WSK4" target="_blank"><img src="https://img.youtube.com/vi/fRXL0X2WSK4/3.jpg" 
-alt="Java" width="240" height="180" border="10" /></a>
-
-↪️ &nbsp; [search more videos...](https://www.youtube.com/c/anisulislamrubel)
-
-<br/>
-
-<!-- latest youtube videos ends here -->
-
-<!-- other skills and my videos for computer science section starts here  -->
-
-<!-- work experience section starts here  -->
-
-### 💼 &nbsp; Employment History
-
-| Position            | Institute                                   | Duration            | Location           |
-| ------------------- | ------------------------------------------- | ------------------- | ------------------ |
-| Full-stack trainer  | Integrify                                   | Aug 2022 - Running  | Helsinki, Finland  |
-| Software Engineer   | M-Files                                     | Nov 2021 - Feb 2022 | Tampere, Finland   |
-| Research Assistant  | Tampere University                          | Nov 2020 - Jan 2021 | Tampere, Finland   |
-| Lecturer of ICT     | Jaflong Valley Boarding School              | Jul 2018 – Nov 2018 | Sylhet, Bangladesh |
-| Guest Lecturer      | Sylhet Engineering College                  | Nov 2017 – Apr 2018 | Sylhet, Bangladesh |
-| Android developer   | United Computer & Technical Training Center | Nov 2016 – Nov 2017 | Sylhet, Bangladesh |
-| Lecturer of ICT     | Zhingabari High School & College            | May 2016 – Aug 2017 | Sylhet, Bangladesh |
-| Content Creator     | YouTube                                     | Jan 2012- Running   | USA                |
-
 <br />
 <!-- work experience section ends here  -->
 <!-- education section starts here  -->
-
-### 👨🏻‍🎓 &nbsp; Education
-
-1. M.Sc. in Software, Web & Cloud  
-   Tampere University  
-   Tampere, Finland.
-2. B.Sc. in Computer Science & Engineering  
-   Leading University  
-   Sylhet, Bangladesh.
-3. Professional Diploma in Travel & Tourism  
-    London School of Commerce & IT  
-   London, England.
 
 <br />
 
@@ -180,18 +128,10 @@ alt="Java" width="240" height="180" border="10" /></a>
 <br />
 <!-- my sports and games section ends here  -->
 
-<!-- Honors & awards section starts here  -->
-
-### 🏅 Honors & Awards :
-
-- 100% Scholarship in Masters at Tampere University, Finland
-- Silver Button from YouTube (350k subscribers currently)
-- Pubali Bank Scholarship of 40,000 BDT for outstanding result in B.Sc.
-
 ---
 
 Thanks for going through my Portfolio.
-All rights reserved by Anisul Islam @2021
+All rights reserved by Md Mahfuj Shek @2024
 
 ---
 
@@ -245,6 +185,6 @@ All rights reserved by Anisul Islam @2021
 
 <!-- cse related playlists ends here  -->
 
-<!-- Links section ends here -->
+<!-- Links section ends here --> 
 #   m d - m a h f u j - s h e k  
  
