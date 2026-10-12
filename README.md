@@ -1,189 +1,110 @@
-<!-- banner image starts here  -->
-<img src="./images/banner.png" width="100%">
-<!-- banner image ends here  -->
+# 👋 Hi, I'm Md Mahfuj Shek
 
-<h1> 👋 Hello, I'm Md Mahfuj Shek</h1>
+### Full Stack Developer | Laravel, PHP & Python Automation Engineer
 
-A full time content creator on & web developer  
-🏠 &nbsp; Living: Dhaka, Bangladesh
+I build web applications, REST APIs, desktop automation tools, and custom business solutions that help streamline workflows and reduce repetitive tasks.
 
-<!-- Contact me section starts here  -->
-
-[<img align="left" alt="website" title="website" width="45" hspace="5" src="./images/website.svg" />][website]
-[<img align="left" alt="youtube" title="youtube link" width="45" hspace="5" src="./images/youtube.svg" />][youtube]
-[<img align="left" alt="facebook" title="facebook" width="45" hspace="5" src="./images/facebook.svg" />][facebook]
-[<img align="left" alt="linkedin" title="linkedin" width="45" hspace="5" src="./images/linkedin.svg" />][linkedin]
-<br />
-<br />
-
-<!-- Contact me section ends here  -->
-
-<!-- about-me section starts here  -->
-
-### 👨‍🏫 &nbsp; About Me
-
-<p align="justify">
-I am a creative designer and developer, who aims to work with small businesses and marginalized communities to bring their passions to life. I offer both design and development services of web applications or websites!
-</p>
-
-<br />
-<!-- about-me section ends here  -->
-
-<!-- web related skills section starts here  -->
-
-### 👨🏽‍💻 &nbsp; My Skills & Videos:
-
-#### Key Skills & Videos on Web development:
-
-[<img align="left" alt="html5" title="html playlist" width="45" hspace="5" src="./images/html5.svg" />][htmlplaylist]
-[<img align="left" alt="css3" title="css playlist" width="45" hspace="5" src="./images/css3.svg" />][cssplaylist]
-[<img align="left" alt="bootstrap" title="bootstrap playlist" width="45" hspace="5" src="./images/bootstrap.svg" />][bootstrapplaylist]
-[<img align="left" alt="javascript" title="javascript playlist" width="45" hspace="5" src="./images/js.svg" />][javascriptplaylist]
-[<img align="left" alt="json" title="json playlist" width="45" hspace="5" src="./images/json.svg" />][jsonplaylist]
-[<img align="left" alt="sass" title="sass playlist" width="45" hspace="5" src="./images/sass.svg" />][sassplaylist]
-[<img align="left" alt="jquery" title="jquery playlist" width="45" hspace="5" src="./images/jquery.svg" />][jqueryplaylist]
-[<img align="left" alt="react" title="react playlist" width="45" hspace="5" src="./images/react.svg" />][reactplaylist]
-[<img align="left" alt="node and express" title="node and express playlist" width="45" hspace="5" src="./images/node.svg" />][nodeandexpressplaylist]
-[<img align="left" alt="mongodb" title="mongodb playlist" width="45" hspace="5" src="./images/mongodb.svg" />][mongodbplaylist]
-[<img align="left" alt="mysql" title="mysql playlist" width="45" hspace="5" src="./images/mysql.svg" />][mysqlplaylist]
-[<img align="left" alt="github" title="github playlist" width="45" hspace="5" src="./images/github.svg" />][githubplaylist]
-
-<br />
-<br />
-<br />
-
-<!-- web related skills section ends here  -->
-<!-- other skills and my videos for computer science section starts here  -->
-
-#### Other Skills & Videos:
-
-[<img align="left" alt="c" title="c playlist" width="45" hspace="5" src="./images/c.svg" />][cplaylist]
-[<img align="left" alt="c plus plus" title="c++ playlist" width="45" hspace="5" src="./images/cplus.svg" />][cplusplaylist]
-[<img align="left" alt="java" title="java playlist" width="45" hspace="5" src="./images/java.svg" />][javaplaylist]
-[<img align="left" alt="android" title="android playlist" width="45" hspace="5" src="./images/android.svg" />][androidplaylist]
-[<img align="left" alt="python" title="python playlist" width="45" hspace="5" src="./images/python.svg" />][pythonplaylist]
-
-<br/>
-<br/>
-<br/>
-
-- [Full-stack web development (Bangla)][fullstackplaylist]
-- [Artificial Intelligence (English)][aienglishplaylist]
-- [Artificial Intelligence (Bangla)][aibanglaplaylist]
-- [Java Swing][javaswingplaylist]
-- [Discrte Math][dsplaylist]
-- [Numerical Method][numericalplaylist]
-- [Theory of computation][tocplaylist]
-- [Compiler][compilerplaylist]
-- [Networking][networkingplaylist]
-- [Operating System][operatingsystemplaylist]
-- [HSC ICT][hscictplaylist]
-- [Learn for skill][learnforskillplaylist]
-- [MS Word][mswordplaylist]
-- [MS Excel][msexcelplaylist]
-- [MS powerpoint][mspowerpointplaylist]
-  <!-- other skills and my videos for computer science section ends here  -->
-
-  <br/>
-
-<!-- github stats starts here  -->
-<!--
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats)
--->
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-islam)](https://github.com/anuraghazra/github-readme-stats) -->
-<!--
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=anisul-Islam&show_icons=true)
--->
-<br/>
-
-<!-- github stats ends here  -->
-<br />
-<!-- work experience section ends here  -->
-<!-- education section starts here  -->
-
-<br />
-
-<!-- education section ends here  -->
-
-<!-- my languages section starts here  -->
-
-### Languages:
-
-- 🇧🇩 Bangla : Native
-- 🏴󠁧󠁢󠁥󠁮󠁧󠁿 English : Advanced
-- 🇮🇳 Hindi : Intermediate
-- 🇧🇷 Portugues : Basic
-  <br />
-
-<!-- my languages section ends here  -->
-
-<!-- my sports and game section starts here  -->
-
-### Sports / Game / Activities / Hobby:
-
-- 🏏 Cricket, ⚽ Football, 🏸 Badminton, ♟️ Chess, 🏐 Volleyball
-- 🏊‍♂️ Swimming, 🏃‍♂️ Running, 🚶‍♂️ Walking
-- ✈️ Travelling
-
-<br />
-<!-- my sports and games section ends here  -->
+📍 Dhaka, Bangladesh  
+💻 Open to Freelance Projects and Technical Collaboration
 
 ---
 
-Thanks for going through my Portfolio.
-All rights reserved by Md Mahfuj Shek @2024
+## 🚀 About Me
+
+I'm a developer focused on building practical web applications and automation systems.
+
+- 🌐 Developing web applications with Laravel and PHP
+- ⚙️ Building REST APIs and third-party integrations
+- 🐍 Automating workflows with Python
+- 🖥️ Creating Windows PC automation tools using Python and AutoHotkey
+- 🤖 Developing Telegram bots and task automation systems
+- 🗄️ Working with MySQL databases and backend systems
+- 🔧 Troubleshooting, debugging, and system integration
+
+My goal is to help businesses save time, improve productivity, and simplify technical workflows through reliable software solutions.
 
 ---
 
-<!-- my achievement section ends here  -->
+## 🛠️ Tech Stack
 
-<!-- Links section starts here -->
+### Web Development
+- PHP
+- Laravel
+- JavaScript
+- Vue.js
+- Tailwind CSS
+- HTML5 and CSS3
 
-[website]: http://www.studywithanis.com/
-[youtube]: https://www.youtube.com/c/anisulislamrubel
-[facebook]: https://www.facebook.com/studywithanis/
-[linkedin]: https://www.linkedin.com/in/anisul2020/
-[github]: https://github.com/anisul-Islam
+### Automation Development
+- Python
+- AutoHotkey (AHK)
+- Windows Desktop Automation
+- Task Scheduling and Workflow Automation
+- Telegram Bot Development
 
-<!-- web related playlists starts here  -->
-[fullstackplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3p06YY1fyReA2UK8mh_zsiY
-[htmlplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3
-[cssplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO
-[bootstrapplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oC_wmWEZa2xWxJauIRQ9kG
-[javascriptplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qzryglMjcyEktz4q7ySunX
-[jsonplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rWYYIcCykektDcb_1IPDz4
-[sassplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qOvGYtFb3Z7KVMLrijYdqO
-[jqueryplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3pSJG9Hwjnykd0hLGEsW4DB
-[reactplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rGtitufynBKMy5gAFpa1y8
-[nodeandexpressplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
-[mongodbplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
-[mysqlplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3qLcx9DvVDWmNJ7riPvxzCD
-[githubplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3r6ZGeyFnSv_YDxVON2P85m
+### APIs and Databases
+- REST API Development
+- API Integration
+- JSON
+- MySQL
+- Authentication and Data Validation
 
-<!-- web related playlists ends here  -->
+### Tools
+- Git
+- GitHub
+- Visual Studio Code
+- Postman
 
-<!-- cse related playlists starts here  -->
-[cplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pCMBZcul1fta6UivHDbXvz
-[cplusplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3q0ZKeXtF--CZ0PdH1sSbYL
-[javaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oAZUB2QXR-dZac0c9HNyRa
-[androidplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3p9xzYLFGdfYliIRBLVDRV5
-[pythonplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rz5XqMsTk41_j15_6682BN
-[aienglishplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rRVV7oeML93OVAxqQ-CvzV
-[aibanglaplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oFAaeJxjDWA8kEbMutzV6V
-[javaswingplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3rAHKr6IteF5kdgN6BorH9l
-[numericalplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oKFrSOo4Kwns1-vTZmKQ7z
-[operatingsystemplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3r_SuT0AnOEoElfQQPgkBIq
-[dsplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3rYy9DVhk28m8enSo8xxiZ3
-[tocplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qw5pu16QgnKNj91Rnjoyd0
-[compilerplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3oWTwTgILA7v9oysoDgkJDg
-[networkingplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p5OI88r3ob-otmKqIm_DbS
-[hscictplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3o8Y-CKhmyodbfHAc9VSVOv
-[learnforskillplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3qyJVIaeHSqiRWOyO6HW023
-[mswordplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3p21lsneT3cW4CJL4Bd1lJ2
-[mspowerpointplaylist]: https://youtube.com/playlist?list=PLgH5QX0i9K3pBnrckqfJ2zn7FL6Q_LNcm
-[msexcelplaylist]: https://www.youtube.com/playlist?list=PLgH5QX0i9K3ohKCQMR7aopneByGX05iSK
+---
 
-<!-- cse related playlists ends here  -->
+## 💼 Featured Projects
 
-<!-- Links section ends here --> 
-#
+### 1. Laravel Web Application
+A web application demonstrating backend development, database operations, authentication, and API integration.
+
+**Technologies:** Laravel, PHP, MySQL, JavaScript
+
+### 2. Python Desktop Automation
+A desktop automation project demonstrating task execution, error handling, process monitoring, and workflow automation.
+
+**Technologies:** Python, AutoHotkey, Windows
+
+### 3. Telegram API Automation
+An automation workflow connecting Telegram commands with API requests, task processing, and status notifications.
+
+**Technologies:** Python, Telegram Bot API, REST API
+
+> These are portfolio project descriptions. Add repository links and mark each project as completed only after implementing and testing it.
+
+---
+
+## 🎯 What I Can Help With
+
+- Laravel Web Application Development
+- PHP Backend Development
+- REST API Development and Integration
+- Python Scripting and Automation
+- Windows PC Automation with AutoHotkey
+- Telegram Bot Development
+- Business Workflow Automation
+- Bug Fixing and Technical Troubleshooting
+
+---
+
+## 📊 GitHub Activity
+
+I use GitHub to document projects, share code, and demonstrate practical development skills.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in web development projects, automation challenges, and opportunities to build useful software.
+
+- 💼 Freelancer: Add your Freelancer.com profile URL
+- 🔗 LinkedIn: Add your LinkedIn profile URL
+- 🌐 Portfolio: Add your portfolio website URL
+
+---
+
+⭐ Thanks for visiting my profile!
